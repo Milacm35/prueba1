@@ -1,0 +1,47 @@
+.op1{
+	color: red;
+	font-size: 1.4em;
+	}
+#op2{
+	color: #7332ff;
+	}
+.Titulo-principal{
+	text-align: center;
+	background-color: gray;
+    }
+span li{
+	list-style: none;
+	display: inline;
+    }
+    .cont-titulo{
+    	border: blue solid 2px;
+    	margin: 12px auto;
+    }
+
+    .barra-navegacion{
+    	border: blue solid 2px;
+    }
+    .barra-lateral{
+    	border:red solid 2px;
+    	float:left;
+    	height:1300px;
+    	padding-left: 16px;
+    }
+.cont-principal{
+        border:red solid 2px;
+        margin-left: 80px;
+        padding-left: 20px;
+    }
+    .pie-pagina{
+	border:red solid 2px;
+	clear:both;
+	padding-left: 100px;
+	text-align: center;
+    }
+    .
+    .video-archivo{
+    	text-align: center;
+    }
+    body{
+    	background-color: silver;
+    }
